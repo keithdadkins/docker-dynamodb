@@ -17,6 +17,7 @@ docker run -p 8000:8000 --name=dynamo1 mydynamo
 ```
 
 __Persistant Data__
+
 If you want your dynamo data to persist after you stop a container, do:
 
 ```bash
